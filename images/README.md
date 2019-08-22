@@ -1,0 +1,1 @@
+**As per the project's BSD-3-Clause license, the images in this folder may not used or redistributed without permission of the Open Ruleset project.**
