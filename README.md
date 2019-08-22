@@ -1,5 +1,6 @@
 # Open Ruleset
 Open Source Tournament Rulesets
+
 ---
 ![ORS Logo](./images/logo.png)
 ## What is the Open Ruleset project?
